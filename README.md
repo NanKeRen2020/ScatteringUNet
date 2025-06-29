@@ -12,7 +12,7 @@
 
 # 部分分割结果对比 
 
-        Unet分割结果                                              ScatteringUnet分割结果
+        Unet分割结果             ScatteringUnet分割结果
 
 ![image](./results/res_img9.png)                      ![image](./results/res_img9_scat.png) 
 
