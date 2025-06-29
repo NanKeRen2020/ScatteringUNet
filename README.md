@@ -12,13 +12,13 @@
 
 # 部分分割结果对比 
 
-        Unet分割结果                        |                ScatteringUnet分割结果
-:-----------------------------------------:|:-------------------------------------------------------:
-![image](./results/res_img9.png)           |            ![image](./results/res_img9_scat.png) 
-                                           |
-![image](./results/res_img257.png)         |            ![image](./results/res_img257_scat.png) 
-                                           |
-![image](./results/res_img285.png)         |            ![image](./results/res_img285_scat.png) 
+        Unet分割结果  ScatteringUnet分割结果
+
+![image](./results/res_img9.png)                      ![image](./results/res_img9_scat.png) 
+                                           
+![image](./results/res_img257.png)                     ![image](./results/res_img257_scat.png) 
+                                           
+![image](./results/res_img285.png)                    ![image](./results/res_img285_scat.png) 
  
 
 
