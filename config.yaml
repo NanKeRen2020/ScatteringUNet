@@ -1,0 +1,20 @@
+#YAML: 1.0
+---
+#================================#
+USE_CUDA: 1
+MODEL_TYPE: 3
+Train.max_epochs: 20
+Train.lr_init: 0.001
+Train.lr_end: 0.0001
+Train.moving_ave_decay: 0.995
+Train.model_save_dir: '/home/nankeren/AI_projects/segment/m2nist-segmentation0/checkpoints'
+Train.batch_size: 10
+Train.images_pth: '/home/nankeren/AI_projects/segment/m2nist-segmentation0/m2nist/train_imgs.npy'
+Train.masks_pth: '/home/nankeren/AI_projects/segment/m2nist-segmentation0/m2nist/train_masks.npy'
+Train.log_dir: '/home/nankeren/AI_projects/segment/m2nist-segmentation0/train_log_250504_01'
+
+
+#
+Val.batch_size: 10
+Val.images_pth: '/home/nankeren/AI_projects/segment/m2nist-segmentation0/m2nist/val_imgs.npy'
+Val.masks_pth: '/home/nankeren/AI_projects/segment/m2nist-segmentation0/m2nist/val_masks.npy'
