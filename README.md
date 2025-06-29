@@ -14,11 +14,11 @@
 
         Unet分割结果                                              ScatteringUnet分割结果
 
-![image](./results/res_img9.png)                      ![image](./pytorch/res/res_img9_scat.png) 
+![image](./results/res_img9.png)                      ![image](./pytorch/results/res_img9_scat.png) 
 
-![image](./results/res_img257.png)                    ![image](./pytorch/res/res_img257_scat.png) 
+![image](./results/res_img257.png)                    ![image](./pytorch/results/res_img257_scat.png) 
 
-![image](./results/res_img285.png)                    ![image](./pytorch/res/res_img285_scat.png) 
+![image](./results/res_img285.png)                    ![image](./pytorch/results/res_img285_scat.png) 
  
 
 
